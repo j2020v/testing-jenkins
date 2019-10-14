@@ -8,4 +8,4 @@ Trying again ..
 
 Third time lucky ?
 
-testing connection at Sparta Global
+testing connection at Sparta Global :)
